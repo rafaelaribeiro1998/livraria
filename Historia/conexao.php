@@ -11,4 +11,5 @@ if($mysqli -> error){
     die ("Conexão com banco de dados falhou!" . $mysqli-> error);
 }
 
+//teste
 ?>
